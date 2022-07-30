@@ -4,9 +4,9 @@ dibuat sebagai dokumentasi untuk membantu pengembangan Aplikasi.\
 \
 \
 PHP :\
--- Reverse Text \
+-- Reverse Text
 
 \
 \
 Javascript :\
--- Reverse Text \
+-- Reverse Text
